@@ -51,7 +51,7 @@ Used KQL queries to detect failed login attempts:
 
 ### Screenshots
 
-#### Attack Map / Infrastructure
+#### Attack Map
 ![Attack Map / Infrastructure](Screenshots/AttackMap.png)
 
 #### Sentinel Incidents View
