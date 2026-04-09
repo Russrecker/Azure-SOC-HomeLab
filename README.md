@@ -63,5 +63,5 @@ Used KQL queries to detect failed login attempts:
 #### Event Viewer Logs
 ![Event Viewer Logs](Screenshots/FailedLogins-EventViewer.png)
 
-#### Azure Resource Group / Infrastructure
-![PowerShell Automation](Screenshots/KQL-FailedLogins.png)
+#### KQL - FailedLogins
+![KQL - FailedLogins](Screenshots/KQL-FailedLogins.png)
