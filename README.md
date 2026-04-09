@@ -51,14 +51,17 @@ Used KQL queries to detect failed login attempts:
 
 ### Screenshots
 
+#### Attack Map / Infrastructure
+![Attack Map / Infrastructure](Screenshots/AttackMap.png)
+
+#### Sentinel Incidents View
+![Sentinel Incidents View](Screenshots/Sentinel-Incidents.png)
+
 #### Azure Resource Group / Infrastructure
 ![Azure Resource Group / Infrastructure](Screenshots/Azure-Resource-Group.png)
 
-#### Azure Resource Group / Infrastructure
-![PowerShell Automation](Screenshots/PowerShell-Automation.png)
+#### Event Viewer Logs
+![Event Viewer Logs](Screenshots/FailedLogins-EventViewer.png)
 
 #### Azure Resource Group / Infrastructure
-![PowerShell Automation](Screenshots/PowerShell-Automation.png)
-
-#### Azure Resource Group / Infrastructure
-![PowerShell Automation](Screenshots/PowerShell-Automation.png)
+![PowerShell Automation](Screenshots/KQL-FailedLogins.png)
